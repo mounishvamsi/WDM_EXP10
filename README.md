@@ -1,5 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 16-05-2026
+## NAME R MOUNISH VAMSI KUMAR
+## REG: 212224240096
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,8 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1916" height="1167" alt="image" src="https://github.com/user-attachments/assets/a61e9d0c-943f-45ac-afe2-e38706e1df7d" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/5127efc6-887b-49b4-a995-a46e3012d3d2" />
 
 ### Result:
+Thus, sentimental analysis for the given data using Rapidminer is done successfully.
